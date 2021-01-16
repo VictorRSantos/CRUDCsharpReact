@@ -1,4 +1,4 @@
-<img src="README.assets/104821885-bf32b780-581d-11eb-8ad3-0644152be964.png" alt="27260-1" style="zoom:10%;" />           <img src="README.assets/104821822-54817c00-581d-11eb-96ed-65160f342648.png" alt="visual-studio" style="zoom:12%;" />       <img src="README.assets/104821891-ca85e300-581d-11eb-8cc1-510abcec180e.png" alt="images" style="zoom:30%;" />
+<img src="README.assets/104821885-bf32b780-581d-11eb-8ad3-0644152be964.png" alt="27260-1" style="zoom:10%;" />           <img src="README.assets/104821822-54817c00-581d-11eb-96ed-65160f342648.png" alt="visual-studio" style="zoom:8%;" />       <img src="README.assets/104821891-ca85e300-581d-11eb-8cc1-510abcec180e.png" alt="images" style="zoom:30%;" />
 
  
 
